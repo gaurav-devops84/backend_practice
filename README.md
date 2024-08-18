@@ -1,1 +1,1 @@
-# backend_practice
+# Basic Java application to practice docker deployment.
